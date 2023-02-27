@@ -1,0 +1,16 @@
+{
+    "name": "CKSound",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f92bca2a4c20c9a4b9719561c553e27d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
